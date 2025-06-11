@@ -1,0 +1,2 @@
+# Automotive
+THIẾT KẾ VÀ TRIỂN KHAI HỆ THỐNG HMI KẾT NỐI TRUYỀN THÔNG KHÔNG DÂY TRÊN XE Ô TÔ
