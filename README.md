@@ -5,7 +5,7 @@
 Mục tiêu chính là thiết kế và triển khai một hệ thống HMI (Human-Machine Interface) cho ô tô, có khả năng kết nối không dây (WiFi, Bluetooth) để người dùng có thể giám sát và điều khiển các chức năng trong xe một cách tiện lợi và an toàn.
 
 ![Mô tả ảnh](QT.png)
-
+![Mô tả ảnh](PCB.png)
 🌟 Chức năng nổi bật
 
 🎛️ Giao diện người dùng (UI) trực quan và thân thiện được xây dựng bằng Qt/QML.
