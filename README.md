@@ -5,7 +5,7 @@
 Mục tiêu chính là thiết kế và triển khai một hệ thống HMI (Human-Machine Interface) cho ô tô, có khả năng kết nối không dây (WiFi, Bluetooth) để người dùng có thể giám sát và điều khiển các chức năng trong xe một cách tiện lợi và an toàn.
 
 ![Mô tả ảnh](QT.png)
-![Mô tả ảnh](PCB.png)
+
 🌟 Chức năng nổi bật
 
 🎛️ Giao diện người dùng (UI) trực quan và thân thiện được xây dựng bằng Qt/QML.
@@ -17,7 +17,8 @@ Mục tiêu chính là thiết kế và triển khai một hệ thống HMI (Hum
 ⚙️ Dễ dàng mở rộng cho nhiều dòng xe và thiết bị khác nhau.
 
 🏗️ Kiến trúc hệ thống
-Phần cứng: ESP32, thiết bị đầu ra(LED).
+Phần cứng: ESP32, thiết bị đầu ra(LED), thiết bị đầu vào(BUTTON).
+![Mô tả ảnh](PCB.png)
 
 Phần mềm:
 
